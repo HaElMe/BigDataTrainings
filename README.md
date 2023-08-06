@@ -20,7 +20,13 @@ There will be a table as a source on where to start big data. **_Most of link ar
 
 # Contributions are welcome 💜
 
-Please raise an issue to discuss your suggestions or open a Pull Request to request improvements.
+Please raise an issue to discuss your suggestions or open a Pull Request to request improvements. Our rules are below:
+
+- Feel free to fork this repository and pull requests.
+- Always comment your code.
+- Please respect topology for filenames.
+- There's one README for each directory.
+- Also, could be great to share useful links or resources in README files.
 
 # Give a Star! ⭐
 
