@@ -19,3 +19,13 @@ There will be a table as a source on where to start big data. **_Most of link ar
 
 
 :point_right: [Reach us now! ](guvezhakan@gmail.com)
+
+
+<!--Markdown editor için kullandığım: https://github.com/Kernix13/markdown-cheatsheet/blob/master/README.md --> 
+<!--Yararlanabileceğimiz kaynaklar-1: https://github.com/thuva4/Bigdata-Papers-Reading --> 
+<!--Yararlanabileceğimiz kaynaklar-2: https://github.com/newTendermint/awesome-bigdata --> 
+<!--Yararlanabileceğimiz kaynaklar-3: https://github.com/binhnguyennus/awesome-scalability --> 
+
+
+
+
