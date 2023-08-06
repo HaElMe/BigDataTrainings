@@ -18,6 +18,14 @@ There will be a table as a source on where to start big data. **_Most of link ar
 | Redis In-Memory Database & Huawei Big Data Solution | Wiil be edited |  Wiil be edited  | Wiil be edited | *Not Available* | 
 
 
+# Contributions are welcome 💜
+
+Please raise an issue to discuss your suggestions or open a Pull Request to request improvements.
+
+# Give a Star! ⭐
+
+If you like or are using this Training Sheet to learn or start your solution, please give it a star. Thanks!
+
 :point_right: [Reach us now! ](guvezhakan@gmail.com)
 
 
