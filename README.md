@@ -1,4 +1,4 @@
-# Big Data Training (Mixed English + Turkish Resources) 
+# Big Data Trainings (Mixed English + Turkish Resources) 
 
 There will be a table as a source on where to start big data. **_Most of link are available on Turkish_** and if we can not find the Turkish information, we will decide to share English. 
 
