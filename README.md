@@ -1,5 +1,7 @@
 # Big Data Trainings (Mixed English + Turkish Resources) 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HaElMe&label=Profile%20views&color=0e75b6&style=flat" alt="HaElMe" /> </p>
+
 There will be a table as a source on where to start big data. **_Most of link are available on Turkish_** and if we can not find the Turkish information, we will decide to share English. 
 
 | Big Data Learning Path Main Subjects | Huawei Internal Big Data Learning Path Videos | Huawei External Big Data Learning Path Videos | Big Data Documents | Big Data Koolabs Exercises | 
