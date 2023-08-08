@@ -20,14 +20,6 @@ There will be a table as a source on where to start big data. **_Most of link ar
 | Redis In-Memory Database & Huawei Big Data Solution | Will be edited |  Will be edited  | Will be edited | *Not Available* | 
 
 
-
-[Introduction to Flink in 30 Minutes ]( https://www.youtube.com/watch?v=RCP9-HdId9w 'Introduction to Flink in 30 Minutes ')
-
-https://www.youtube.com/watch?v=RCP9-HdId9w
-
-Introduction to Flink in 30 Minutes 
-
-
 # Contributions are welcome 💜
 
 Please raise an issue to discuss your suggestions or open a Pull Request to request improvements. Our rules are below:
