@@ -35,7 +35,7 @@ Please raise an issue to discuss your suggestions or open a Pull Request to requ
 
 If you like or are using this Training Sheet to learn or start your solution, please give it a star. Thanks!
 
-:point_right: [Reach us now! ](guvezhakan@gmail.com)
+:point_right: [Reach us now! ](guvezhakan@gmail.com) 
 
 
 <!--Markdown editor için kullandığım: https://github.com/Kernix13/markdown-cheatsheet/blob/master/README.md --> 
@@ -43,9 +43,5 @@ If you like or are using this Training Sheet to learn or start your solution, pl
 <!--Yararlanabileceğimiz kaynaklar-2: https://github.com/newTendermint/awesome-bigdata --> 
 <!--Yararlanabileceğimiz kaynaklar-3: https://github.com/binhnguyennus/awesome-scalability --> 
 <!--Ornek link ekleme: [Big Data - Apache Kafka ve Zookeeper Windows Kurulumu](https://www.youtube.com/watch?v=tC2xHj-HyNQ 'Big Data - Apache Kafka ve Zookeeper Windows Kurulumu') --> 
-
-
-
-
 
 
