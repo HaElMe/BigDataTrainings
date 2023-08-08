@@ -14,23 +14,14 @@ There will be a table as a source on where to start big data. **_Most of link ar
 | Spark - An In Memory Distributed Computing Engine | [Spark - An In-Memory Distributed Computing Engine]( https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUENXX061+Self-paced/about/sp:cloudEdu_en 'Spark - An In-Memory Distributed Computing Engine') |  [A Beginner’s Guide to Apache Spark](  https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92 'A Beginner’s Guide to Apache Spark') and [Pyhton ile buyuk veri Apache Spark]( https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/python-ile-buyuk-veri/apache-spark 'Pyhton ile buyuk veri Apache Spark') and  [Spark'a ve Eğitim Serisine Giriş](  https://www.youtube.com/watch?v=rz7agsqD0wE&list=PLh9ECzBB8tJMQaDsCDtJ_2YRoKCslrq37 'Sparka ve Eğitim Serisine Giriş') |  [Scala Spark Ornegi](  https://github.com/korogluomer/ScalaSparkExample 'Scala Spark Ornegi') and [Huawei Spark Best Practise]( https://support.huaweicloud.com/intl/en-us/bestpractice-mrs/mrs_05_0022.html 'Huawei Spark Best Practise') and [Spark Ana Tutorial]( https://www.javatpoint.com/apache-spark-tutorial 'Spark Ana Tutorial') and [High Level Overview of Apache Spark]( https://medium.com/better-programming/high-level-overview-of-apache-spark-c225a0a162e9 'High Level Overview of Apache Spark') | [Spark Preference Analysis]( https://lab.huaweicloud.com/intl/en-us/testdetail_1896 'Spark Preference Analysis') | 
 | Flink , Stream and Batch Processing a Single Engine | [Flink, Stream and Batch Processing in a Single Engine]( https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUENXX062+Self-paced/about/sp:cloudEdu_en 'Flink, Stream and Batch Processing in a Single Engine') |  [Introduction to Flink in 30 Minutes ]( https://www.youtube.com/watch?v=RCP9-HdId9w 'Introduction to Flink in 30 Minutes ')  |  [Flink Best Practise for Huawei Cloud]( https://support.huaweicloud.com/intl/en-us/bestpractice-mrs/mrs_05_0049.html 'Flink Best Practise for Huawei Cloud') and [Apache Flink Ana Tutorial]( https://developer.confluent.io/courses/apache-flink/intro/ 'Apache Flink Ana Tutorial') and [Apache Flink Architecture]( https://flink.apache.org/what-is-flink/flink-architecture/ 'Apache Flink Architecture') and [Kafka Flink Storm Platformlari]( https://womaneng.com/kafka-flink-storm-platformlari/ 'Kafka Flink Storm Platformlari') and [Flink Ornekleri]( https://github.com/deluxetiky/flink-streaming-example 'Flink Ornekleri') and [Flink Stateful Streaming Ornegi]( https://sinanbir.com/apache-flink-stateful-streaming-example/#more-494 'Flink Stateful Streaming Ornegi') | *Not Available* |
 | Loader Data Conversion | [Loader Data Conversion]( https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUENXX064+Self-paced/about/sp:cloudEdu_en 'Loader Data Conversion') | *Not Available* | [Simplified data migration with Data Loader and Data Catalog Crawler]( https://www.youtube.com/watch?v=ZAs284VfIT8 'Simplified data migration with Data Loader and Data Catalog Crawler') | *Not Available* |
-| Flume - Masssive Log Aggregation | Will be edited |  Will be edited  | Will be edited | *Not Available* | 
+| Flume - Masssive Log Aggregation | [Flume - Massive Log Aggregation]( https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUENXX063+Self-paced/about/sp:cloudEdu_en 'Flume - Massive Log Aggregation') |  [What is Flume in Hadoop]( https://www.youtube.com/watch?v=cSMhLBmmlUs&pp=ygULZmx1bWUgbmVkaXI%3D 'What is Flume in Hadoop') and [Apache Flume - Introduction]( https://www.youtube.com/watch?v=JiW3scI2gpA&list=PLf0swTFhTI8pZ6fj9OmHKuESF0yUL-wkb 'Apache Flume - Introduction')  | [Apache Flume ile Veri Toplama]( https://devveri.com/hadoop/apache-flume-ile-veri-toplama 'Apache Flume ile Veri Toplama') | *Not Available* | 
 | Kafka - Distributed Publish - Subscribe Messaging System | Will be edited |  Will be edited  | Will be edited | *Not Available* | 
 | ElasticSearch - Distributed Search Engine | Will be edited |  Will be edited  | Will be edited | *Not Available* | 
 | Redis In-Memory Database & Huawei Big Data Solution | Will be edited |  Will be edited  | Will be edited | *Not Available* | 
 
 
-https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUENXX064+Self-paced/about/sp:cloudEdu_en
 
-Loader Data Conversion
-
-https://www.youtube.com/watch?v=ZAs284VfIT8
-
-Simplified data migration with Data Loader and Data Catalog Crawler
-
-
-
-[Simplified data migration with Data Loader and Data Catalog Crawler]( https://www.youtube.com/watch?v=ZAs284VfIT8 'Simplified data migration with Data Loader and Data Catalog Crawler')
+[Apache Flume ile Veri Toplama]( https://devveri.com/hadoop/apache-flume-ile-veri-toplama 'Apache Flume ile Veri Toplama')
 
 
 
